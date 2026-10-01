@@ -15,3 +15,4 @@ def test_capitalize_words():
 
 def test_current_date():
     assert len(get_current_date()) == 10
+
