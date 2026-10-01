@@ -2,7 +2,7 @@ from datetime import datetime
 
 
 def get_current_date():
-    return "DATE FROM DEVELOPER A"
+    return "Current date"
 
 
 def format_date(date):
